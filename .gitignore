@@ -2,4 +2,5 @@
 *.mp4
 *.fit
 *.npy
+.ipynb_checkpoints
 
